@@ -1,0 +1,240 @@
+{
+  "model_info": {
+    "architecture": "",
+    "model_type": "",
+    "vocab_size": ,
+    "hidden_size": ,
+    "num_layers": ,
+    "num_attention_heads": 
+  },
+  "model_files": [
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-bf16.gguf",
+      "size": 29539537120,
+      "size_formatted": "27GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 31
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-IQ2_M.gguf",
+      "size": 5353856736,
+      "size_formatted": "4GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-IQ2_S.gguf",
+      "size": 5001436896,
+      "size_formatted": "4GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-IQ3_M.gguf",
+      "size": 6913977120,
+      "size_formatted": "6GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-IQ3_XS.gguf",
+      "size": 6380800800,
+      "size_formatted": "5GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-IQ3_XXS.gguf",
+      "size": 5944418016,
+      "size_formatted": "5GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-IQ4_NL.gguf",
+      "size": 8546350912,
+      "size_formatted": "7GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-IQ4_XS.gguf",
+      "size": 8117072032,
+      "size_formatted": "7GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q2_K_L.gguf",
+      "size": 6526469248,
+      "size_formatted": "6GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q2_K.gguf",
+      "size": 5768144288,
+      "size_formatted": "5GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q3_K_L.gguf",
+      "size": 7922207520,
+      "size_formatted": "7GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q3_K_M.gguf",
+      "size": 7336643360,
+      "size_formatted": "6GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q3_K_S.gguf",
+      "size": 6657035040,
+      "size_formatted": "6GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q3_K_XL.gguf",
+      "size": 8601666688,
+      "size_formatted": "8GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q4_0.gguf",
+      "size": 8541435712,
+      "size_formatted": "7GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q4_1.gguf",
+      "size": 9389180032,
+      "size_formatted": "8GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q4_K_L.gguf",
+      "size": 9561605248,
+      "size_formatted": "8GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q4_K_M.gguf",
+      "size": 8985278272,
+      "size_formatted": "8GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q4_K_S.gguf",
+      "size": 8570599232,
+      "size_formatted": "7GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q5_K_L.gguf",
+      "size": 10985047168,
+      "size_formatted": "10GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q5_K_M.gguf",
+      "size": 10505785792,
+      "size_formatted": "9GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q5_K_S.gguf",
+      "size": 10263466432,
+      "size_formatted": "9GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q6_K_L.gguf",
+      "size": 12497454208,
+      "size_formatted": "11GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q6_K.gguf",
+      "size": 12121325056,
+      "size_formatted": "11GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    },
+    {
+      "name": "deepcogito_cogito-v1-preview-qwen-14B-Q8_0.gguf",
+      "size": 15697249408,
+      "size_formatted": "14GB",
+      "format": "GGUF",
+      "gguf_version": 3,
+      "tensor_count": 579,
+      "metadata_kv_count": 35
+    }
+  ],
+  "total_count": 25,
+  "source_url": "https://huggingface.co/bartowski/deepcogito_cogito-v1-preview-qwen-14B-GGUF",
+  "generated_at": "2025-07-14T14:47:17Z"
+}
